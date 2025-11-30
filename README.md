@@ -9,54 +9,53 @@ CodeRoom Editor is a real-time collaborative code editing platform that allows m
 # Live Demo
 
 
-# Demo Video
+## Demo Video
 
+You can watch the demo video directly from the repository:
 
-# Features
+[Live Server (demo video)](https://github.com/UMAR-ALAM-786/CodeRoom-Editor/blob/main/Live%20Server.mp4)
 
-Create or join rooms using a unique Room ID
+---
 
-Set your username for identification
+## Features
 
-Real-time collaborative code editing
+- Create or join rooms using a unique Room ID  
+- Set your username for identification  
+- Real-time collaborative code editing  
+- Instant code synchronization between all clients  
+- Syntax highlighting and editor customization using CodeMirror  
+- Built with modern and scalable technologies  
 
-Instant code synchronization between all clients
+---
 
-Syntax highlighting and editor customization using CodeMirror
+## Technologies Used
 
-Built with modern and scalable technologies
+- MongoDB  
+- Express.js  
+- React.js  
+- Node.js  
+- Socket.IO  
+- uuid  
+- CodeMirror  
 
-# Technologies Used
+---
 
-MongoDB
+## Usage
 
-Express.js
+1. Open the live app  
+2. Enter or generate a Room ID  
+3. Enter your username  
+4. Start coding together in real time  
 
-React.js
+---
 
-Node.js
+## Run Locally
 
-Socket.IO
+### 1. Clone the Repository
 
-uuid
-
-CodeMirror
-
-# Usage
-
-Open the live app:
-
-Enter or generate a Room ID
-
-Enter your username
-
-Start coding together in real time
-
-# Run Locally
-1. Clone the Repository
-git clone https://github.com/yourusername/coderoom-editor.git
-cd coderoom-editor
-
+```bash
+git clone https://github.com/UMAR-ALAM-786/CodeRoom-Editor.git
+cd CodeRoom-Editor
 2. Install Dependencies
 npm install
 
