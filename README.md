@@ -8,14 +8,12 @@ CodeRoom Editor is a real-time collaborative code editing platform that allows m
 
 # Live Demo
 
-
-## Demo Video
-
 You can watch the demo video directly from the repository:
 
 [Live Server (demo video)](https://github.com/UMAR-ALAM-786/CodeRoom-Editor/blob/main/Live%20Server.mp4)
 
----
+https://github.com/UMAR-ALAM-786/CodeRoom-Editor/blob/main/Live%20Server.mp4
+
 
 ## Features
 
